@@ -6,8 +6,11 @@ The visualization below displays the data for both variables; each line represen
 
 # Project
 
-This was developed with Snowpack: https://www.snowpack.dev/. If you want to run the code in dev mode:
+This was developed with Snowpack: https://www.snowpack.dev/. 
 
+The `build` file is live on: https://pessoaflavio.github.io/build
+
+If you want to run the code in dev mode:
 
 ```
 something
