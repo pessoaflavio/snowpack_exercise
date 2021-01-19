@@ -12,12 +12,12 @@ module.exports = {
     // ],
   ],
 exclude: ['**/node_modules/**/*','**/.git/**/*','.gitignore','snowpack.config.js'],
-  // mount: {
-  //   // Same behavior as the "src" example above:
-  //   public: "/",
-  //   // Mount "public" to the root URL path ("/*") and serve files with zero transformations:
-  //   src: "/dist"
-  // },
+  mount: {
+    // Same behavior as the "src" example above:
+    public: "/",
+    // Mount "public" to the root URL path ("/*") and serve files with zero transformations:
+    src: "/build"
+  },
   // buildOptions: {
   //   out: "/build"
   // }

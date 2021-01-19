@@ -1,5 +1,5 @@
-import * as d3 from "./_snowpack/pkg/d3.js";
-import * as d3_arrow from "./_snowpack/pkg/d3-arrow.js";
+import * as d3 from "../_snowpack/pkg/d3.js";
+import * as d3_arrow from "../_snowpack/pkg/d3-arrow.js";
 
 
 /*Graph Class creates our viz
