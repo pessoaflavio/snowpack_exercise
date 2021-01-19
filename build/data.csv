@@ -1,0 +1,87 @@
+﻿fips,year,correct_total_exp,state,county_name,total_jail_pop,urbanicity,region,Avg_Cost,Incremental_Cost
+1073,2007,36450,AL,Jefferson County,1626,urban,South,22,15
+1073,2017,30253,AL,Jefferson County,1509,urban,South,20,13
+4013,2007,375827,AZ,Maricopa County,9501,urban,West,40,26
+4013,2017,467919,AZ,Maricopa County,7717,urban,West,61,39
+5119,2007,15810,AR,Pulaski County,969,small/mid,South,16,11
+5119,2017,28295,AR,Pulaski County,1058,small/mid,South,27,17
+6019,2007,105893,CA,Fresno County,3055,small/mid,West,35,23
+6019,2017,43904,CA,Fresno County,2857,small/mid,West,15,10
+6037,2007,1262890,CA,Los Angeles County,19194,urban,West,66,43
+6037,2017,1610481,CA,Los Angeles County,17367,urban,West,93,60
+6067,2007,256122,CA,Sacramento County,4332,urban,West,59,38
+6067,2017,257377,CA,Sacramento County,3643,urban,West,71,46
+6073,2007,309974,CA,San Diego County,5345,urban,West,58,38
+6073,2017,400086,CA,San Diego County,6021,urban,West,66,43
+6085,2007,277175,CA,Santa Clara County,4706,urban,West,59,38
+6085,2017,435796,CA,Santa Clara County,3488,urban,West,125,81
+12086,2007,263479,FL,Miami-Dade County,6940,urban,South,38,25
+12086,2017,325110,FL,Miami-Dade County,3927,urban,South,83,54
+12057,2007,151978,FL,Hillsborough County,4263,urban,South,36,23
+12057,2017,153193,FL,Hillsborough County,3008,urban,South,51,33
+13121,2007,85047,GA,Fulton County,4138,urban,South,21,13
+13121,2017,71739,GA,Fulton County,3022,urban,South,24,15
+17031,2007,386263,IL,Cook County,9637,urban,Midwest,40,26
+17031,2017,496490,IL,Cook County,7844,urban,Midwest,63,41
+19153,2007,70071,IA,Polk County,591,small/mid,Midwest,119,77
+19153,2017,32393,IA,Polk County,983,small/mid,Midwest,33,21
+20173,2007,22063,KS,Sedgwick County,1497,small/mid,Midwest,15,10
+20173,2017,59068,KS,Sedgwick County,1222,small/mid,Midwest,48,31
+23005,2007,14947,ME,Cumberland County,471,small/mid,Northeast,32,21
+23005,2017,19336,ME,Cumberland County,451,small/mid,Northeast,43,28
+26163,2007,291093,MI,Wayne County,2427,urban,Midwest,120,78
+26163,2017,219041,MI,Wayne County,1865,urban,Midwest,117,76
+27053,2007,91100,MN,Hennepin County,1279,urban,Midwest,71,46
+27053,2017,105429,MN,Hennepin County,1164,urban,Midwest,91,59
+28049,2007,15220,MS,Hinds County,933,small/mid,South,16,11
+28049,2017,18732,MS,Hinds County,734,small/mid,South,26,17
+29095,2007,15599,MO,Jackson County,989,urban,Midwest,16,10
+29095,2017,17999,MO,Jackson County,967,urban,Midwest,19,12
+30111,2007,8231,MT,Yellowstone County,357,small/mid,West,23,15
+30111,2017,12799,MT,Yellowstone County,394,small/mid,West,32,21
+31055,2007,32769,NE,Douglas County,1199,small/mid,Midwest,27,18
+31055,2017,49592,NE,Douglas County,1258,small/mid,Midwest,39,26
+32003,2007,195750,NV,Clark County,5426,urban,West,36,23
+32003,2017,257599,NV,Clark County,5591,urban,West,46,30
+33011,2007,12098,NH,Hillsborough County,543,small/mid,Northeast,22,14
+33011,2017,17191,NH,Hillsborough County,421,small/mid,Northeast,41,27
+34013,2007,84515,NJ,Essex County,2437,urban,Northeast,35,23
+34013,2017,116009,NJ,Essex County,2097,urban,Northeast,55,36
+35001,2007,47223,NM,Bernalillo County,2450,small/mid,West,19,13
+35001,2017,64993,NM,Bernalillo County,1262,small/mid,West,52,33
+37119,2007,110053,NC,Mecklenburg County,2440,urban,South,45,29
+37119,2017,116792,NC,Mecklenburg County,1526,urban,South,77,50
+37183,2007,25198,NC,Wake County,1256,urban,South,20,13
+37183,2017,49169,NC,Wake County,1185,urban,South,41,27
+38017,2007,9045,ND,Cass County,234,small/mid,Midwest,39,25
+38017,2017,11469,ND,Cass County,322,small/mid,Midwest,36,23
+40143,2007,32835,OK,Tulsa County,1423,small/mid,South,23,15
+40143,2017,47631,OK,Tulsa County,1611,small/mid,South,30,19
+41051,2007,121206,OR,Multnomah County,1568,urban,West,77,50
+41051,2017,162489,OR,Multnomah County,1077,urban,West,151,98
+45019,2007,26940,SC,Charleston County,1625,small/mid,South,17,11
+45019,2017,34898,SC,Charleston County,1189,small/mid,South,29,19
+46099,2007,10837,SD,Minnehaha County,426,small/mid,Midwest,25,17
+46099,2017,17185,SD,Minnehaha County,338,small/mid,Midwest,51,33
+47157,2007,48746,TN,Shelby County,5533,urban,South,9,6
+47157,2017,56507,TN,Shelby County,4411,urban,South,13,8
+48029,2007,88003,TX,Bexar County,4039,urban,South,22,14
+48029,2017,95770,TX,Bexar County,3754,urban,South,26,17
+48113,2007,106468,TX,Dallas County,7323,urban,South,15,9
+48113,2017,169429,TX,Dallas County,5473,urban,South,31,20
+48141,2007,64001,TX,El Paso County,2184,small/mid,South,29,19
+48141,2017,96080,TX,El Paso County,2358,small/mid,South,41,26
+48439,2007,97657,TX,Tarrant County,3469,urban,South,28,18
+48439,2017,117676,TX,Tarrant County,3501,urban,South,34,22
+48453,2007,128136,TX,Travis County,2645,urban,South,48,31
+48453,2017,179307,TX,Travis County,2502,urban,South,72,47
+49035,2007,63659,UT,Salt Lake County,1984,urban,West,32,21
+49035,2017,79192,UT,Salt Lake County,2209,urban,West,36,23
+53033,2007,130754,WA,King County,3043,urban,West,43,28
+53033,2017,176322,WA,King County,2975,urban,West,59,39
+54039,2007,5410,WV,Kanawha County,406,small/mid,South,13,9
+54039,2017,5430,WV,Kanawha County,460,small/mid,South,12,8
+55079,2007,127194,WI,Milwaukee County,3085,urban,Midwest,41,27
+55079,2017,153352,WI,Milwaukee County,2271,urban,Midwest,68,44
+56021,2007,7492,WY,Laramie County,268,small/mid,West,28,18
+56021,2017,9158,WY,Laramie County,221,small/mid,West,41,27
